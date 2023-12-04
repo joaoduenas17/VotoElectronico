@@ -1,0 +1,15 @@
+ec\voto\api\domain\Pais.class
+ec\voto\api\service\GenericCrudService.class
+ec\voto\api\repository\PaisPersistence.class
+ec\voto\api\repository\ProvinciaPersistence.class
+ec\voto\api\v1\PaisController.class
+ec\voto\api\v1\ProvinciaController.class
+ec\voto\api\service\ProvinciaService.class
+ec\voto\api\dto\PaisDTO.class
+ec\voto\api\dto\ProvinciaDTO.class
+ec\voto\api\common\ApiException.class
+ec\voto\api\VotoApiApplication.class
+ec\voto\api\domain\Provincia.class
+ec\voto\api\dto\ApiResponseDTO.class
+ec\voto\api\service\PaisService.class
+ec\voto\api\service\GenericCrudServiceImpl.class
